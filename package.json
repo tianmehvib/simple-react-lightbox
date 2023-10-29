@@ -1,7 +1,7 @@
 {
   "name": "simple-react-lightbox-18support",
   "version": "3.9.1",
-  "description": "Simple React Lightbox - React 18 Support",
+  "description": "Simple React Lightbox - React 18 Support. Forked from - https://github.com/hueyyeng/simple-react-lightbox",
   "author": "iamibrahimriaz",
   "license": "MIT",
   "repository": {
