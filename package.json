@@ -1,12 +1,12 @@
 {
   "name": "simple-react-lightbox-18support",
   "version": "3.9.1",
-  "description": "A simple but functional light-box for React.",
+  "description": "Simple React Lightbox - React 18 Support",
   "author": "iamibrahimriaz",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamibrahimriaz/simple-react-lightbox"
+    "url": "git+https://github.com/iamibrahimriaz/simple-react-lightbox.git"
   },
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -115,5 +115,9 @@
     "rollup-plugin-polyfill-node": "^0.11.0",
     "subscribe-event": "^1.1.1",
     "use-debounce": "^8.0.4"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/iamibrahimriaz/simple-react-lightbox/issues"
+  },
+  "homepage": "https://github.com/iamibrahimriaz/simple-react-lightbox#readme"
 }
