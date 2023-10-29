@@ -1,8 +1,8 @@
 {
-  "name": "@iamibrahimriaz/simple-react-lightbox",
+  "name": "simple-react-lightbox-18support",
   "version": "3.9.0",
   "description": "A simple but functional light-box for React.",
-  "author": "hueyyeng",
+  "author": "iamibrahimriaz",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -44,8 +44,8 @@
     "predeploy": "cd example && yarn install && yarn run build"
   },
   "peerDependencies": {
-    "react": "^16.3.0 || ^17.0.0 || ^18.1.0",
-    "react-dom": "^16.3.0 || ^17.0.0 || ^18.1.0"
+    "react": "^16.3.0 || ^17.0.0 || ^18.*.*",
+    "react-dom": "^16.3.0 || ^17.0.0 || ^18.*.*"
   },
   "devDependencies": {
     "@babel/core": "^7.19.1",
