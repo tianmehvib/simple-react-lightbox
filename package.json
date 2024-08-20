@@ -1,12 +1,12 @@
 {
-  "name": "simple-react-lightbox-18support",
-  "version": "3.9.1",
-  "description": "Simple React Lightbox - React 18 Support. Forked from - https://github.com/hueyyeng/simple-react-lightbox",
-  "author": "iamibrahimriaz",
+  "name": "@tianmehvib/simple-react-lightbox-18support",
+  "version": "3.9.4",
+  "description": "Simple React Lightbox - React 18 Support. Forked from - https://github.com/iamibrahimriaz/simple-react-lightbox",
+  "author": "tianmehvib",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamibrahimriaz/simple-react-lightbox.git"
+    "url": "git+https://github.com/tianmehvib/simple-react-lightbox.git"
   },
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -84,10 +84,10 @@
     "babel-eslint": "^10.1.0",
     "core-js": "^3.25.1",
     "cross-env": "^7.0.3",
-    "eslint": "8.23.1",
+    "eslint": "^8.39.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-config-standard": "^17.0.0",
-    "eslint-config-standard-react": "^11.0.1",
+    "eslint-config-standard-react": "^13.0.0",
     "eslint-plugin-import": "^2.24.0",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^6.0.1",
@@ -105,6 +105,7 @@
     "dist"
   ],
   "dependencies": {
+    "@pronestor/react-zoom-pan-pinch": "^2.4.5",
     "fast-deep-equal": "^3.1.3",
     "framer-motion": "^6.5.1",
     "lodash": "^4.17.21",

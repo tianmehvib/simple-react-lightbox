@@ -1,6 +1,8 @@
 # @hueyyeng/simple-react-lightbox
 
-[![npm version](https://badge.fury.io/js/@hueyyeng%2Fsimple-react-lightbox.svg)](https://badge.fury.io/js/@hueyyeng%2Fsimple-react-lightbox)
+[![npm version](https://badge.fury.io/js/@tianmehvib%2Fsimple-react-lightbox.svg)](https://badge.fury.io/js/@tianmehvib%2Fsimple-react-lightbox)
+
+A project forked from https://github.com/iamibrahimriaz/simple-react-lightbox
 
 Modified React lightbox based on Michele Cocuccio's Simple React Lightbox. The original README.md can be found here: [README.old.md](README.old.md).
 
